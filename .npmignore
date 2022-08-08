@@ -1,0 +1,7 @@
+.prettierignore
+.tool-versions
+esbuild.inject.js
+examples
+*.md
+wrangler.toml
+dist/p2pcf.min.js
